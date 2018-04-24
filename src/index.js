@@ -11,6 +11,7 @@ const app = dva({initialState: {
 
 // 2. Plugins
 // app.use({});
+// ceshi add 
 
 // 3. Model
 // app.model(require('./models/example').default);
